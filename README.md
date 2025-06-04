@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=menotti&theme=oldie&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/menotti)
+
 <!--
 **menotti/menotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
