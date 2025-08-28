@@ -1,6 +1,7 @@
-## Hi there 👋
+# Prof. Ricardo **Menotti**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=menotti&theme=oldie&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/menotti)
+I hold a B.Sc. in Computer Science from Universidade do Oeste Paulista (2002), an M.Sc. in Computer Science and Computational Mathematics from the University of São Paulo (2005), and a Ph.D. in the same field from the University of São Paulo (2010). I am currently an Associate Professor in the [Department of Computing](https://dc.ufscar.br) at the [Federal University of São Carlos](https://ufscar.br). My research focuses on Computer Architecture, High-Performance Computing, Heterogeneous Computing, Embedded Systems, and Compilers. In particular, I investigate techniques for accelerating applications through heterogeneous architectures that integrate FPGAs, GPUs, and other specialized platforms, targeting both large-scale scientific workloads and resource-constrained embedded systems.
+
 
 <!--
 **menotti/menotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
