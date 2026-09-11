@@ -2,6 +2,11 @@
 
 I hold a B.Sc. in Computer Science from Universidade do Oeste Paulista (2002), an M.Sc. in Computer Science and Computational Mathematics from the University of São Paulo (2005), and a Ph.D. in the same field from the University of São Paulo (2010). I am currently an Associate Professor in the [Department of Computing](https://dc.ufscar.br) at the [Federal University of São Carlos](https://ufscar.br). My research focuses on Computer Architecture, High-Performance Computing, Heterogeneous Computing, Embedded Systems, and Compilers. In particular, I investigate techniques for accelerating applications through heterogeneous architectures that integrate FPGAs, GPUs, and other specialized platforms, targeting both large-scale scientific workloads and resource-constrained embedded systems.
 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="menotti on LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/prof-menotti/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"  alt="menotti on WhatsApp" height="30" width="40"/>](https://wa.me/551633066606)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menotti on X" height="30" width="40" />](https://x.com/prof_menotti)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="menotti on YouTube" height="30" width="40" />](https://www.youtube.com/@Prof_Menotti)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menotti on Instagram" height="30" width="40" />](https://www.instagram.com/prof_menotti)
 
 <!--
 **menotti/menotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
